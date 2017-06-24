@@ -33,6 +33,42 @@
           3.90757
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Language": "Jambi",
+        "Loan": "cari, sakit, ratus",
+        "language": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5,
+          0.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "Language": "",
+        "Loan": "",
+        "language": "Acehnese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.6032,
+          4.90757
+        ]
+      }
     }
   ]
 }
