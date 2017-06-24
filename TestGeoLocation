@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102,
+          0.5
+        ]
+      },
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Language": "Jambi",
+        "Loan": "cari, sakit, ratus"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "language": "Acehnese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.6032,
+          3.90757
+        ]
+      }
+    }
+  ]
+}
