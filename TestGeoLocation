@@ -13,7 +13,7 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "small",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "Language": "Jambi",
         "Loan": "cari, sakit, ratus"
       }
@@ -22,9 +22,9 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "star",
-        "language": "Acehnese"
+        "Language": "Acehnese"
       },
       "geometry": {
         "type": "Point",
@@ -39,10 +39,9 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "small",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "Language": "Jambi",
-        "Loan": "cari, sakit, ratus",
-        "language": ""
+        "Loan": "cari, sakit, ratus"
       },
       "geometry": {
         "type": "Point",
@@ -56,11 +55,10 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "star",
-        "Language": "",
-        "Loan": "",
-        "language": "Acehnese"
+        "Language": "Acehnese",
+        "Loan": ""
       },
       "geometry": {
         "type": "Point",
