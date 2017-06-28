@@ -340,6 +340,567 @@
           0.75
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Bisaya (Limbang, Sabah Bisaya)",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.51,
+          5.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Bonggi",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.17,
+          7.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Buginese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.98,
+          -4.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Ida'an Begak",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.52,
+          5.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Jarai",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.81,
+          13.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Kambera",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.23,
+          -9.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Kei",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.02,
+          -5.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Banjarese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Banjarese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Banjarese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Banjarese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Banjarese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Banjarese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Banjarese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Banjarese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Banjarese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Banjarese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Banjarese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Banjarese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Banjarese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Banjarese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Banjarese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Banjarese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Banjarese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Banjarese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Banjarese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Banjarese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Banjarese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Banjarese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Banjarese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Banjarese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Banjarese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Banjarese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79,
+          0.75
+        ]
+      }
     }
   ]
 }
