@@ -736,7 +736,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc3333",
-        "Language": "Banjarese",
+        "Language": "Tetun",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "Number of loans": "1"
@@ -744,8 +744,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.79,
-          0.75
+          125.53,
+          -9.11
         ]
       }
     },
@@ -753,7 +753,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc3333",
-        "Language": "Banjarese",
+        "Language": "Yami (Iranomilek)",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "Number of loans": "1"
@@ -761,8 +761,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.79,
-          0.75
+          121.54,
+          22.05
         ]
       }
     },
