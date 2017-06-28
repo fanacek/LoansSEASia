@@ -278,7 +278,7 @@
       "properties": {
         "marker-color": "#cc3333",
         "Language": "Madurese",
-        "marker-symbol": 15,
+        "marker-symbol": 16,
         "marker-size": "small",
         "Number of loans": 2
       },
@@ -287,6 +287,23 @@
         "coordinates": [
           113,
           -7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Melanau (Mukah)",
+        "marker-symbol": 17,
+        "marker-size": "small",
+        "Number of loans": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.35,
+          2.52
         ]
       }
     },
