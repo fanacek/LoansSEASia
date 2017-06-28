@@ -455,8 +455,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.98,
-          -4.47
+          114.17,
+          2.72
         ]
       }
     },
@@ -464,16 +464,16 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc9900",
-        "Language": "Buginese",
+        "Language": "Muna",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "Number of loans": 3
+        "Number of loans": 2
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.98,
-          -4.47
+          122.54,
+          -5.4
         ]
       }
     },
@@ -481,16 +481,16 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc9900",
-        "Language": "Buginese",
+        "Language": "Tae'",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "Number of loans": 3
+        "Number of loans": 2
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.98,
-          -4.47
+          120.14,
+          -2.58
         ]
       }
     },
@@ -498,16 +498,16 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc9900",
-        "Language": "Buginese",
+        "Language": "Acehnese",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "Number of loans": 3
+        "Number of loans": 1
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.98,
-          -4.47
+          96.6032,
+          3.90757
         ]
       }
     },
@@ -515,16 +515,16 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc9900",
-        "Language": "Buginese",
+        "Language": "Bare'e",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "Number of loans": 3
+        "Number of loans": 1
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.98,
-          -4.47
+          121.27,
+          -1.63
         ]
       }
     },
@@ -532,16 +532,16 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc9900",
-        "Language": "Buginese",
+        "Language": "Buli",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "Number of loans": 3
+        "Number of loans": 1
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.98,
-          -4.47
+          128.44,
+          1
         ]
       }
     },
