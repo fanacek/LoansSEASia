@@ -4,10 +4,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#cc3333",
         "marker-size": "large",
-        "marker-symbol": 1,
-        "Language": "Malay",
+        "marker-symbol": 0,
+        "Language": "Old Malay",
         "Number of loans": "n.a. (donor language)"
       },
       "geometry": {
@@ -20,59 +20,8 @@
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104.755,
-          -2.986111
-        ]
-      },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "large",
-        "marker-symbol": 0,
-        "Language": "Old Malay",
-        "Number of loans": "n.a. (donor language)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          102.256,
-          2.205
-        ]
-      },
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "large",
-        "marker-symbol": 1,
-        "Language": "Classical Malay (Malacca)",
-        "Number of loans": "n.a."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.833,
-          1.283
-        ]
-      },
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "large",
-        "marker-symbol": 1,
-        "Language": "Classical Malay (Singapore)",
-        "Number of loans": "n.a."
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#cc3333",
         "Language": "Javanese",
         "marker-symbol": 2,
         "marker-size": "large",
@@ -96,7 +45,7 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#cc3333",
         "marker-size": "large",
         "marker-symbol": 3,
         "Language": "Toba Batak",
