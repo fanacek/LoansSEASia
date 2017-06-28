@@ -38,17 +38,34 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#cc3333",
         "Language": "Old Javanese",
-        "marker-symbol": 5,
+        "marker-symbol": 3,
         "marker-size": "large",
-        "Number of loans": 112
+        "Number of loans": 14
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           110.148,
           -7.155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc3333",
+        "marker-size": "large",
+        "marker-symbol": 4,
+        "Language": "Ngayu Dayak",
+        "Number of loans": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.794,
+          -1.58463
         ]
       }
     },
@@ -64,42 +81,25 @@
       "properties": {
         "marker-color": "#cc3333",
         "marker-size": "large",
-        "marker-symbol": 3,
+        "marker-symbol": 5,
         "Language": "Toba Batak",
-        "Number of loans": 126
+        "Number of loans": 11
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "large",
-        "marker-symbol": 4,
-        "Language": "Ngayu Dayak",
-        "Number of loans": 112
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.794,
-          -1.58463
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#cc3333",
         "marker-size": "medium",
         "marker-symbol": 6,
-        "Language": "Balinese",
-        "Number of loans": 85
+        "Language": "Iban",
+        "Number of loans": 9
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.075,
-          -8.35714
+          112.934,
+          2.09041
         ]
       }
     },
