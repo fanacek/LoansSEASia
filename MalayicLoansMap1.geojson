@@ -8,7 +8,7 @@
         "marker-size": "large",
         "marker-symbol": 0,
         "Language": "Old Malay",
-        "Number of loans": "n.a. (donor language)"
+        "Number of loans": "14 senses (donor language)"
       },
       "geometry": {
         "type": "Point",
@@ -23,15 +23,32 @@
       "properties": {
         "marker-color": "#cc3333",
         "Language": "Javanese",
-        "marker-symbol": 2,
+        "marker-symbol": 1,
         "marker-size": "large",
-        "Number of loans": 169
+        "Number of loans": 15
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           111.148,
           -7.455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "Language": "Old Javanese",
+        "marker-symbol": 5,
+        "marker-size": "large",
+        "Number of loans": 112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.148,
+          -7.155
         ]
       }
     },
@@ -66,23 +83,6 @@
         "coordinates": [
           112.794,
           -1.58463
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "Language": "Old Javanese",
-        "marker-symbol": 5,
-        "marker-size": "large",
-        "Number of loans": 112
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          110.148,
-          -7.155
         ]
       }
     },
