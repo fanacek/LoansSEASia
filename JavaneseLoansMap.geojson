@@ -549,6 +549,176 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc9900",
+        "Language": "Gorontalo",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.29,
+          0.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Hawu",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.85,
+          -10.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Komodo",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.48,
+          -8.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Buginese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.98,
+          -4.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Buginese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.98,
+          -4.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Buginese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.98,
+          -4.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Buginese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.98,
+          -4.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Buginese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.98,
+          -4.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Buginese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.98,
+          -4.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Buginese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.98,
+          -4.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
         "Language": "Buginese",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
