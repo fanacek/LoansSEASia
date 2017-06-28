@@ -515,7 +515,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc3333",
-        "Language": "Banjarese",
+        "Language": "Mandar",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "Number of loans": "1"
@@ -523,8 +523,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.79,
-          0.75
+          119.07,
+          -3.35
         ]
       }
     },
@@ -532,7 +532,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc3333",
-        "Language": "Banjarese",
+        "Language": "Manggarai",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "Number of loans": "1"
@@ -540,8 +540,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.79,
-          0.75
+          120.33,
+          -8.56
         ]
       }
     },
@@ -549,7 +549,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc3333",
-        "Language": "Banjarese",
+        "Language": "Maranao",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "Number of loans": "1"
@@ -557,8 +557,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.79,
-          0.75
+          124.17,
+          7.79
         ]
       }
     },
@@ -566,7 +566,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc3333",
-        "Language": "Banjarese",
+        "Language": "Minangkabau",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "Number of loans": "1"
@@ -574,8 +574,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.79,
-          0.75
+          96.25,
+          4.17
         ]
       }
     },
@@ -583,7 +583,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc3333",
-        "Language": "Banjarese",
+        "Language": "Miri",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "Number of loans": "1"
@@ -591,8 +591,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.79,
-          0.75
+          114.432,
+          3.585
         ]
       }
     },
@@ -600,7 +600,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc3333",
-        "Language": "Banjarese",
+        "Language": "Mongondow",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "Number of loans": "1"
@@ -608,8 +608,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.79,
-          0.75
+          124.11,
+          0.65
         ]
       }
     },
@@ -617,7 +617,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc3333",
-        "Language": "Banjarese",
+        "Language": "Proto-Chamic (Eastern Cham)",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "Number of loans": "1"
@@ -625,8 +625,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.79,
-          0.75
+          108.49,
+          11.29
         ]
       }
     },
@@ -634,7 +634,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc3333",
-        "Language": "Banjarese",
+        "Language": "Rejang",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "Number of loans": "1"
@@ -642,8 +642,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.79,
-          0.75
+          102.43,
+          -3.33
         ]
       }
     },
@@ -651,7 +651,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc3333",
-        "Language": "Banjarese",
+        "Language": "Rhade",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "Number of loans": "1"
@@ -659,8 +659,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.79,
-          0.75
+          108.41,
+          12.98
         ]
       }
     },
@@ -668,7 +668,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc3333",
-        "Language": "Banjarese",
+        "Language": "Rotinese",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "Number of loans": "1"
@@ -676,8 +676,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.79,
-          0.75
+          123.17,
+          -10.73
         ]
       }
     },
@@ -685,7 +685,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc3333",
-        "Language": "Banjarese",
+        "Language": "Simalur",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "Number of loans": "1"
@@ -693,8 +693,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.79,
-          0.75
+          96.28,
+          2.5
         ]
       }
     },
@@ -702,7 +702,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc3333",
-        "Language": "Banjarese",
+        "Language": "Tae'",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "Number of loans": "1"
@@ -710,8 +710,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.79,
-          0.75
+          120.14,
+          -2.58
         ]
       }
     },
@@ -719,7 +719,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc3333",
-        "Language": "Banjarese",
+        "Language": "Tagalog",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "Number of loans": "1"
@@ -727,8 +727,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.79,
-          0.75
+          121.747,
+          14.06
         ]
       }
     },
