@@ -310,6 +310,23 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#cc3333",
+        "Language": "Singhi Land Dayak (Bau-Jagoi Bidayuh)",
+        "marker-symbol": 18,
+        "marker-size": "small",
+        "Number of loans": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.98,
+          1.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "marker-color": "#7e7e7e",
         "Language": "Mapun",
         "marker-symbol": 78,
