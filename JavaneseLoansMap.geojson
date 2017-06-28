@@ -277,7 +277,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc9900",
-        "Language": "Buginese",
+        "Language": "Gayō",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "Number of loans": 3
@@ -285,8 +285,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.98,
-          -4.47
+          97.35,
+          4.37
         ]
       }
     },
@@ -294,7 +294,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc9900",
-        "Language": "Buginese",
+        "Language": "Malagasy",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "Number of loans": 3
@@ -302,8 +302,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.98,
-          -4.47
+          49.24,
+          -13.22
         ]
       }
     },
@@ -311,7 +311,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc9900",
-        "Language": "Buginese",
+        "Language": "Rejang",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "Number of loans": 3
@@ -319,8 +319,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.98,
-          -4.47
+          102.43,
+          -3.33
         ]
       }
     },
@@ -328,7 +328,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc9900",
-        "Language": "Buginese",
+        "Language": "Sangir",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "Number of loans": 3
@@ -336,8 +336,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.98,
-          -4.47
+          125.48,
+          5.44
         ]
       }
     },
@@ -345,7 +345,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc9900",
-        "Language": "Buginese",
+        "Language": "Wolio",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "Number of loans": 3
@@ -353,8 +353,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.98,
-          -4.47
+          122.67,
+          -5.33
         ]
       }
     },
@@ -362,16 +362,16 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc9900",
-        "Language": "Buginese",
+        "Language": "Banggai",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "Number of loans": 3
+        "Number of loans": 2
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.98,
-          -4.47
+          123.17,
+          -1.58
         ]
       }
     },
@@ -379,16 +379,16 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc9900",
-        "Language": "Buginese",
+        "Language": "Bikol (Coastal Naga Bikol)",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "Number of loans": 3
+        "Number of loans": 2
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.98,
-          -4.47
+          123.4,
+          13.76
         ]
       }
     },
@@ -396,16 +396,16 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc9900",
-        "Language": "Buginese",
+        "Language": "Cebuano",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "Number of loans": 3
+        "Number of loans": 2
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.98,
-          -4.47
+          124.37,
+          8.39
         ]
       }
     },
@@ -413,16 +413,16 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc9900",
-        "Language": "Buginese",
+        "Language": "Ilokano",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "Number of loans": 3
+        "Number of loans": 2
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.98,
-          -4.47
+          120.99,
+          15.94
         ]
       }
     },
@@ -430,16 +430,16 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc9900",
-        "Language": "Buginese",
+        "Language": "Kambera",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "Number of loans": 3
+        "Number of loans": 2
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.98,
-          -4.47
+          120.23,
+          -9.88
         ]
       }
     },
@@ -447,7 +447,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc9900",
-        "Language": "Buginese",
+        "Language": "Kayan (Rejang Kayan)",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "Number of loans": 3
