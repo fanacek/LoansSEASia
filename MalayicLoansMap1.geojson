@@ -464,7 +464,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc3333",
-        "Language": "Banjarese",
+        "Language": "Komodo",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "Number of loans": "1"
@@ -472,8 +472,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.79,
-          0.75
+          119.48,
+          -8.65
         ]
       }
     },
@@ -481,7 +481,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc3333",
-        "Language": "Banjarese",
+        "Language": "Lotud",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "Number of loans": "1"
@@ -489,8 +489,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.79,
-          0.75
+          116.23,
+          6.14
         ]
       }
     },
@@ -498,7 +498,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#cc3333",
-        "Language": "Banjarese",
+        "Language": "Malagasy",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "Number of loans": "1"
@@ -506,8 +506,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.79,
-          0.75
+          49.24,
+          -13.22
         ]
       }
     },
