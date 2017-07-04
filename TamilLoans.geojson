@@ -1,0 +1,838 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Malay",
+        "marker-symbol": "1",
+        "marker-size": "large",
+        "Number of loans": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.755,
+          -2.986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Balinese",
+        "marker-symbol": "2",
+        "marker-size": "medium",
+        "Number of loans": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.075,
+          -8.35714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Bikol",
+        "marker-symbol": "3",
+        "marker-size": "medium",
+        "Number of loans": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.4,
+          13.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Cebuano",
+        "marker-symbol": "4",
+        "marker-size": "medium",
+        "Number of loans": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.37,
+          8.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Tagalog",
+        "marker-symbol": "5",
+        "marker-size": "medium",
+        "Number of loans": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.747,
+          14.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Javanese",
+        "marker-symbol": "6",
+        "marker-size": "medium",
+        "Number of loans": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.148,
+          -7.455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Makasarese",
+        "marker-symbol": "7",
+        "marker-size": "medium",
+        "Number of loans": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.84,
+          -5.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Maranao",
+        "marker-symbol": "8",
+        "marker-size": "medium",
+        "Number of loans": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.17,
+          7.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Ngaju Dayak",
+        "marker-symbol": "9",
+        "marker-size": "small",
+        "Number of loans": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.794,
+          -1.58463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Sundanese",
+        "marker-symbol": "10",
+        "marker-size": "small",
+        "Number of loans": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.106,
+          -6.89708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Toba Batak",
+        "marker-symbol": "11",
+        "marker-size": "small",
+        "Number of loans": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1761,
+          2.35498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Aklanon",
+        "marker-symbol": "12",
+        "marker-size": "small",
+        "Number of loans": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.35,
+          11.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Iban",
+        "marker-symbol": "13",
+        "marker-size": "small",
+        "Number of loans": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.934,
+          2.09041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Ilokano",
+        "marker-symbol": "14",
+        "marker-size": "small",
+        "Number of loans": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.99,
+          15.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Kapampangan",
+        "marker-symbol": "15",
+        "marker-size": "small",
+        "Number of loans": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5,
+          14.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Karo Batak",
+        "marker-symbol": "16",
+        "marker-size": "small",
+        "Number of loans": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.25,
+          2.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Mapun",
+        "marker-symbol": "17",
+        "marker-size": "small",
+        "Number of loans": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.75,
+          6.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Sasak",
+        "marker-symbol": "18",
+        "marker-size": "small",
+        "Number of loans": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.284,
+          -8.58349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Simalur",
+        "marker-symbol": "19",
+        "marker-size": "small",
+        "Number of loans": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.28,
+          2.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Tausug",
+        "marker-symbol": "20",
+        "marker-size": "small",
+        "Number of loans": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.88,
+          5.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Yakan",
+        "marker-symbol": "21",
+        "marker-size": "small",
+        "Number of loans": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.02,
+          6.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Acehnese",
+        "marker-symbol": "22",
+        "marker-size": "small",
+        "Number of loans": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.6032,
+          3.90757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Dairi-Pakpak Batak",
+        "marker-symbol": "23",
+        "marker-size": "small",
+        "Number of loans": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.24,
+          2.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Agutaynen",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.66,
+          10.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Bintulu",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.63,
+          3.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Bontok",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.27,
+          17.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Buginese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.98,
+          -4.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Gorontalo",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.29,
+          0.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Hanunóo",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.22,
+          12.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Itawis",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.58,
+          17.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Itbayaten",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.85,
+          20.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Kadazan Dusun",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.68,
+          6.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Kambera",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.23,
+          -9.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Komodo",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.48,
+          -8.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Makasarese (Salayar)",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.84,
+          -5.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Mandar",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.07,
+          -3.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Manggarai",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.33,
+          -8.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Mansaka",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.18,
+          6.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Masbatenyo",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.64,
+          12.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Old Javanese",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.148,
+          -7.155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Pangasinan",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.36,
+          15.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Rejang",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.43,
+          -3.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Rembong",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.97,
+          -8.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Romblomanon",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.56,
+          12.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Sama (Central)",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.46,
+          7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Tboli",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.54,
+          6.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Tiruray",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.13,
+          6.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Tombonuwo",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.32,
+          6.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc9900",
+        "Language": "Waray-Waray",
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "Number of loans": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.01,
+          11.49
+        ]
+      }
+    }
+  ]
+}
