@@ -4,9 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Javanese",
-        "marker-symbol": "1",
+        "marker-symbol": 1,
         "marker-size": "medium",
         "Number of loans": 5
       },
@@ -21,7 +21,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Balinese",
         "marker-symbol": "2",
         "marker-size": "small",
@@ -38,7 +38,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Malay",
         "marker-symbol": "3",
         "marker-size": "small",
@@ -55,7 +55,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Sundanese",
         "marker-symbol": "4",
         "marker-size": "small",
@@ -72,7 +72,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Nias",
         "marker-symbol": "5",
         "marker-size": "small",
@@ -89,7 +89,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Iban",
         "marker-symbol": "6",
         "marker-size": "small",
@@ -106,7 +106,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Old Javanese",
         "marker-symbol": "7",
         "marker-size": "small",
@@ -123,7 +123,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Toba Batak",
         "marker-symbol": "8",
         "marker-size": "small",
@@ -140,7 +140,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Acehnese",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
@@ -157,7 +157,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Bare'e",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
@@ -174,7 +174,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Bimanese",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
@@ -191,7 +191,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Cebuano",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
@@ -208,7 +208,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Dairi-Pakpak Batak",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
@@ -225,7 +225,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Hawu",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
@@ -242,7 +242,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Hiligaynon",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
@@ -259,7 +259,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Itbayaten",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
@@ -276,7 +276,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Kapampangan",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
@@ -293,7 +293,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Komodo",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
@@ -310,7 +310,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Madurese",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
@@ -327,7 +327,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Makasarese",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
@@ -344,7 +344,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Manggarai",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
@@ -361,7 +361,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Maranao",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
@@ -378,7 +378,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Mongondow",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
@@ -395,7 +395,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Rejang",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
@@ -412,7 +412,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Sasak",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
@@ -429,7 +429,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Simalur",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
@@ -446,7 +446,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Tboli",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
@@ -463,7 +463,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "Tiruray",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
@@ -480,7 +480,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc9900",
+        "marker-color": "#666666",
         "Language": "W.Tarangan",
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
