@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Abui"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.59,
+          -8.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3824,
+          26.3241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sumi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.4235,
+          25.9996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Syuba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.17,
+          27.45
+        ]
+      }
+    }
+  ]
+}
